@@ -1,0 +1,101 @@
+
+@media (max-width : 768px){
+
+    .header-2{
+        padding-left: 80px;
+        padding-top: 30px;
+    }
+    .title .bd{
+        font-size: 20px;
+    }
+    
+    .navbar-nav .nav-item .nav-link{
+        color: whitesmoke;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+}
+
+@media (max-width : 489px){
+  
+    .title .bd{
+        font-size: 20px;
+    }
+    
+}
+@media (max-width : 476px){
+  
+    .title .bd-text{
+        font-size: 25px;
+    }
+    
+}
+@media (max-width : 446px){
+  
+    .title .bd{
+        font-size: 18px;
+    }
+    .header-2{
+        padding-left: 60px;
+        padding-top: 30px;
+    }
+}
+
+@media (max-width : 426px){
+  
+    .title .bd{
+        font-size: 16px;
+    }
+    .title .bd-text{
+        font-size: 20px;
+    }
+    .header-2{
+        padding-left: 40px;
+        padding-top: 30px;
+    }
+}
+@media (max-width : 406px){
+  
+    .header-2{
+        padding-left: 25px;
+        padding-top: 20px;
+    }
+}
+@media (max-width : 391px){
+    .title .bd{
+        font-size: 15px;
+    }
+    .title .bd-text{
+        font-size: 20px;
+    }
+  
+    .header-2{
+        padding-left: 15px;
+        padding-top: 20px;
+    }
+}
+@media (max-width : 369px){
+    .title .bd{
+        font-size: 11px;
+    }
+    .title .bd-text{
+        font-size: 16px;
+    }
+  
+    .header-2 h6 a{
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+}
+@media (max-width : 369px){
+
+    .title .bd-text{
+        font-size: 14px;
+    }
+     
+    .header-2 h6 a{
+        padding-left: 10px;
+        padding-top: -10px;
+    }
+}
